@@ -1,0 +1,1 @@
+import{j as t,L as s}from"./react-vendor-D3qircUs.js";import{ax as r,a3 as a}from"./index-5lAiVw-7.js";function i(){return t.jsx(r,{status:"404",title:"404",subTitle:"抱歉，您访问的页面不存在。",extra:t.jsx(s,{to:"/",children:t.jsx(a,{type:"primary",children:"返回首页"})})})}export{i as default};
